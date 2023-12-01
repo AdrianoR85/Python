@@ -6,12 +6,12 @@ class Car:
     print(f'{self.name} is speeding up...')
     
 
-fusca = Car('Fusca')
-print(fusca.name)
-fusca.speeds_up()
+BMW = Car('BMW')
+print(BMW.name)
+BMW.speeds_up()
 
 
-celta = Car('Celta')
-print(celta.name)
-celta.speeds_up()
+ferrari = Car('Ferrari')
+print(ferrari.name)
+ferrari.speeds_up()
 
